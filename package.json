@@ -2,7 +2,7 @@
   "name": "sun-earth-moon",
   "description": "Simple orbital dem by zircle",
   "author": "Juan Martín Muda <juan.martin.muda@gmail.com>",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"

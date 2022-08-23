@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import App from './App.vue'
-import zircle from 'zircle'
-import 'zircle/dist/zircle.css'
+import zircle from './index.js'
+
 Vue.use(zircle)
 Vue.config.productionTip = false
 
