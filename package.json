@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "vue": "2.7.8",
-    "zircle": "^1.4.0"
+    "zircle": "^1.5.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "5.0.8",
